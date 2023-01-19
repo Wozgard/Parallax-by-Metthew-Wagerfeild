@@ -1,6 +1,6 @@
 # Parallax-by-Metthew-Wagerfeild
 
-It's copy popular Metthew Wagerfeild's web syte
+It's copy popular Metthew Wagerfeild's web site
 
 ## Skills
 - Parallax effect
